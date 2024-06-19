@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+.pnp
+.pnp.js
+
+# Build directories
+dist/
+build/
+
+# Runtime data
+               [ Read 34 lines (converted from DOS format) ]
+^G Help        ^O Write Out   ^F Where Is    ^K Cut         ^T Execute      
+^X Exit        ^R Read File   ^\ Replace     ^U Paste       ^J Justify     
